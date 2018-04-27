@@ -1,0 +1,11 @@
+#include <stdio.h>
+#include <stdlib.h>
+
+int main()
+{
+    int valor;
+    scanf("%d", valor);
+    printf(2*valor);
+    return 0;
+}
+
